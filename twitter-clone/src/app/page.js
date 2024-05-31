@@ -1,6 +1,7 @@
 import Image from "next/image";
 import SideBar from "../../components/SideBar";
 import Feed from "../../components/Feed";
+import SearchWidget from "../../components/SearchWidget";
 
 export default function Home() {
   return (
@@ -8,6 +9,7 @@ export default function Home() {
         
         <SideBar/>
         <Feed/>
+        <SearchWidget/>
         
     </main>
   );
