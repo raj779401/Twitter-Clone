@@ -36,7 +36,7 @@ export default function SideBar() {
 
             {/* Mini Profile */}
 
-            <div className='hoverEffect text-gray-800  flex justify-center items-center  xl:justify-start mt-8 space-x-2 leading-5' >
+            <div className='hoverEffect text-gray-800  flex justify-center items-center  xl:justify-start mt-8 space-x-2 leading-5 xl:ml-24' >
                 
                 <Image className='rounded-full' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLuXVl1Pew5GJfXuoPEsLmSA-5fG-CerC-SA&s" alt='user-image' width={80} height={80}/>
                 <div className='leading-5 hidden xl:inline'>
