@@ -1,6 +1,6 @@
 import { DotsHorizontalIcon } from "@heroicons/react/outline";
 import { ChatIcon } from "@heroicons/react/outline";
-import { ChartBarIcon, HeartIcon, ShareIcon, TrashIcon } from "@heroicons/react/solid";
+import { ChartBarIcon, HeartIcon, ShareIcon, TrashIcon } from "@heroicons/react/outline";
 import Image from "next/image";
 
 export default function Post({ post }) {
